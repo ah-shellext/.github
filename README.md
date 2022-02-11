@@ -1,14 +1,3 @@
-# Ah-ShellExt
+# ah-shellext/.github
 
-+ Here is an organization belongs to [AoiHosizora](https://github.com/AoiHosizora), which is used to manage my shell extension repositories.
-
-### Extensions developed by C++/ATL
-
-+ [Aoi-hosizora/OpenWithMenu](https://github.com/Aoi-hosizora/OpenWithMenu)
-+ [ah-shellext/CopyPathMenu](https://github.com/ah-shellext/CopyPathMenu)
-+ [ah-shellext/FileIconOverlay](https://github.com/ah-shellext/FileIconOverlay)
-
-### Extensions developed by .NET/SharpShell
-
-+ [ah-shellext/Mp3CoverDroper](https://github.com/ah-shellext/Mp3CoverDroper)
-+ [ah-shellext/FileTimePropPage](https://github.com/ah-shellext/FileTimePropPage)
++ This is the profile repository for Ah-ShellExt organization.
