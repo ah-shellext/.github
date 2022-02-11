@@ -1,6 +1,6 @@
 # Ah-ShellExt
 
-+ Here is an organization belongs to [AoiHosizora](https://github.com/AoiHosizora), which is used to manage my shell extension repositories.
++ Here is the organization belongs to [Aoi-hosizora](https://github.com/Aoi-hosizora), which is used to manage my shell extension repositories.
 
 ### Extensions developed by C++/ATL
 
@@ -12,3 +12,8 @@
 
 + [ah-shellext/Mp3CoverDroper](https://github.com/ah-shellext/Mp3CoverDroper)
 + [ah-shellext/FileTimePropPage](https://github.com/ah-shellext/FileTimePropPage)
+
+### Extensions under developed
+
++ [ah-shellext/Taskbar_CPUMemExt](https://github.com/ah-shellext/Taskbar_CPUMemExt)
++ [ah-shellext/HookSystemMenu](https://github.com/ah-shellext/HookSystemMenu)
